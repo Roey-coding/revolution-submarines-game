@@ -1,0 +1,45 @@
+
+body {
+    background-color: green;
+}
+
+h1 {
+    color: black;
+    font-size: 46px;
+    font-family: sans-serif;
+}
+
+div {
+    border: 3px solid #f1f1f1;
+    width:570px;
+    height: 360px;
+    left: 700px;
+    top: 115px;
+    position: absolute;
+}
+
+img {
+    left: 300px;
+    top: 115px;
+}
+
+h2 {
+    color:white
+}
+
+button {
+    font-size: 30px;
+    position: absolute;
+    width: 560px;
+    top: 315px;
+    left: 5px;
+}
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
